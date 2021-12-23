@@ -1,6 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Teko&display=swap');
+
 body{
     background-color: rgb(59, 211, 80);
 }
 h1{
+    font-family: 'Teko', sans-serif;
     color: rgb(124, 82, 217);
 }
