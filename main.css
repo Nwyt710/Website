@@ -3,8 +3,8 @@
 body{
     background-color: rgb(59, 211, 80);
 }
-h1{
+.text{
     font-family: 'Teko', sans-serif;
     color: rgb(124, 82, 217);
-    letter-spacing: 10px;
+    letter-spacing: 1px;
 }
