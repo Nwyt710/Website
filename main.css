@@ -1,10 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Teko&display=swap');
 
+*{
+    font-family: 'Teko', sans-serif;
+    padding: auto;
+    box-sizing: border-box;
+}
 body{
     background-color: rgb(59, 211, 80);
 }
 .text{
-    font-family: 'Teko', sans-serif;
     color: rgb(124, 82, 217);
     letter-spacing: 1px;
 }
